@@ -48,26 +48,47 @@ Gợi ý: Sử dụng phương pháp split để tách dữ liệu ra khỏi t�
 Đây là một mẫu chạy chương trình của bạn cho hai tệp dữ liệu đầu tiên. Bạn có thể tìm thấy danh sách đầy đủ đầu ra dự kiến cho tất cả các tệp dữ liệu trong gói có thể tải xuống cho bài tập này.
 
 Enter a class to grade (i.e. class1 for class1.txt): class1
+
 Successfully opened class1.txt
+
 **** ANALYZING ****
+
 No errors found!
+
 **** REPORT ****
+
 Total valid lines of data: 20
+
 Total invalid lines of data: 0
+
 Enter a class to grade (i.e. class1 for class1.txt): class2
+
 Successfully opened class2.txt
+
 **** ANALYZING ****
+
 Invalid line of data: does not contain exactly 26 values:
+
 N00000023,,A,D,D,C,B,D,A,C,C,,C,,B,A,C,B,D,A,C,A,A
+
 Invalid line of data: N# is invalid
+
 N0000002,B,A,D,D,C,B,D,A,C,D,D,D,A,,A,C,D,,A,C,A,A,B,D,D
+
 Invalid line of data: N# is invalid
+
 NA0000027,B,A,D,D,,B,,A,C,B,D,B,A,,A,C,B,D,A,,A,A,B,D,D
+
 Invalid line of data: does not contain exactly 26 values:
+
 N00000035,B,A,D,D,B,B,,A,C,,D,B,A,B,A,A,B,D,A,C,A,C,B,D,D,A,A
+
 **** REPORT ****
+
 Total valid lines of data: 21
+
 Total invalid lines of data: 4
+
 Task 3:
 
 Tiếp theo, bạn sẽ viết một chương trình để chấm điểm các bài thi cho một phần nhất định. Kỳ thi gồm 25 câu hỏi, trắc nghiệm. Đây là một chuỗi đại diện cho các câu trả lời:
